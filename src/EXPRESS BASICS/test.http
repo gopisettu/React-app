@@ -1,0 +1,26 @@
+###
+GET http://localhost:1234/api/bytyperate/gopi
+
+###
+
+GET http://localhost:1234/api/bytyperate/
+
+###
+
+POST http://localhost:1234/api/publish
+Content-Type: application/json
+
+{
+    "profileName":"Razak Mohamed S",
+    "profileCibil":890,
+    "profileProfession":"Business",
+    "profileLocation":"Salem"
+}
+###
+GET http://localhost:1234//api/bytyperate/
+###
+GET http://localhost:1234/api/published/
+###
+GET  http://localhost:1234/api/published/
+
+
